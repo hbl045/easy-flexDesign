@@ -1,0 +1,73 @@
+
+footer{
+    padding:150px 50px 0;
+}
+footer .customer h2{
+    max-width: 1180px;
+    font-weight: normal;
+    font-size: 40px;
+    text-align: center;
+    border-bottom: 1px solid #ccc;
+    margin: 0 auto 10px;
+}
+footer .customer p{
+    text-align: center;
+    color: #aaa;
+}
+
+footer .customer-logo{
+    display: flex;
+    max-width: 1000px;
+    margin: 70px auto 0;
+    flex-wrap:wrap;
+}
+footer .customer-logo li{
+    width: 25%;
+}
+
+footer .content{
+    max-width: 1190px;
+    background-color: #fff;
+    padding-top: 50px;
+}
+footer .content .customer-attention{
+    display: flex;
+    width: 100%;
+    border-top: 1px solid #ccc;
+    padding-top: 50px;
+    padding-bottom: 40px;
+    justify-content: space-around;
+}
+
+.hotline p,.work-time p{
+    font-size: 20px;
+}
+footer .content p.link{
+    border-bottom: 1px solid #ccc;
+    line-height: 40px;
+    color: skyblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
